@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/java-dio.iml" filepath="$PROJECT_DIR$/java-dio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-restaurante.iml" filepath="$PROJECT_DIR$/java-restaurante.iml" />
     </modules>
   </component>
 </project>
